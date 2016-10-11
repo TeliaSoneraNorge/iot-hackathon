@@ -18,13 +18,13 @@
     * Linux: https://github.com/atom/atom/releases/latest
 
 * Install platformIO
-    * Mac OS X: Menu: Atom > Preferences > Install > Search platformIO > Click Install
-    * Windows: Menu: File > Settings > Install > Search platformIO > Click Install
-    * Linux: Menu: Edit > Preferences > Install > Search platformIO > Click Install
+    * Mac OS X: `Menu: Atom > Preferences > Install > Search platformIO > Click Install`
+    * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
+    * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
         
 
 
 ## Exercises
 
-* [Exercise 1] - Blink Led
+* [[Exercise 1] - Blink Led](doc/exercise/[exercise1]-blink/exercise1-blink.md)
 * [Exercise 2] - 
