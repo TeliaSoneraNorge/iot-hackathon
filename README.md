@@ -26,6 +26,7 @@
     * [Windows](http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip)
     * [Linux](http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip)
     * [Other](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
+    
 ---
 
 ## Hardware information
