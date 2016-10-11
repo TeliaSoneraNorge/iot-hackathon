@@ -6,12 +6,10 @@
 
 ---
 
-## NodeMcu 2016 (from — to)
-
 ## Prerequisites
-* Pull repo
+* Clone the repo
 
-    ```git pull <this repo>```
+    ```git pull git@github.com:TeliaSoneraNorge/iot-hackathon.git```
 
 * Install Atom
     * Mac OS X: https://atom.io/download/mac or `brew cask install atom`
@@ -23,7 +21,11 @@
     * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
     * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
         
+---
 
+## Hardware information
+
+---
 
 ## Exercises
 
