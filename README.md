@@ -1,7 +1,7 @@
 ![TeliaNextIotLabHackathon](img/TeliaNextIoTLab.png?raw=true)
 
-[![Slack](img/slack.png)](https://telianorge.slack.com/messages/iot-hackathon) 
-[Join #iot-hackathon on Slack!](https://telianorge.slack.com/messages/iot-hackathon)
+[![Slack](img/slack.png)](slack://channel?team=T03PATMPV&id=C2KGD3F37) 
+[Join #iot-hackathon on Slack!](slack://channel?team=T03PATMPV&id=C2KGD3F37)
 
 
 # Welcome to the U1 Hackathon
@@ -23,7 +23,7 @@ Join whenever you can and stay for as long as you want!
 
 ***Want to join? [Please sign up!](http://bit.ly/2dQGwxZ)***
 
-Let us know your thoughts, ideas and questions in [#iot-hackathon](https://telianorge.slack.com/messages/iot-hackathon) on Slack!
+Let us know your thoughts, ideas and questions in [#iot-hackathon](slack://channel?team=T03PATMPV&id=C2KGD3F37) on Slack!
 
 ---
 ## Getting started with NodeMCU
