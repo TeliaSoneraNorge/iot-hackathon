@@ -21,6 +21,12 @@
     * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
     * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
         
+* Install NodeMCU CP201x USB Driver
+    * macOS: http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip
+    * Windows: http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip
+    * Linux: http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip
+        * Note: The Linux 3.x.x version of the driver is maintained in the current Linux 3.x.x tree at www.kernel.org.
+    * http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx
 ---
 
 ## Hardware information
