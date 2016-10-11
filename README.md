@@ -7,7 +7,7 @@
 # Welcome to the U1 Hackathon
 
 * Two-part hackathon for everyone interested
-* Work on your own project or build something cool for Telia Town or (hardware or software)
+* Work on your own project or build something cool for Telia Town (hardware or software)
 * The IoT Lab will provide help, inspiration and [some parts](doc/hardware/hardware.md)
 
 ### Part 1 – 27 October 15.00 - ???
