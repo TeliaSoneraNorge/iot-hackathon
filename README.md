@@ -1,7 +1,6 @@
 ![TeliaNextIotLabHackathon](img/TeliaNextIoTLab.png?raw=true)
 
-<a href="slack://channel?team=T03PATMPV&id=C2KGD3F37"> ![Slack](img/slack.png) </a>
-<a href="slack://channel?team=T03PATMPV&id=C2KGD3F37"> Join #iot-hackathon on Slack! </a>
+![Slack](img/slack.png) Join #iot-hackathon on Slack!
 
 
 # Welcome to the U1 Hackathon
