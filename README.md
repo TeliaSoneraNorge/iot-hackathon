@@ -1,4 +1,5 @@
-# Some Telia Next IoT Lab logo
+![TeliaNextIotLabHackathon](./img/TeliaNextIotLab.png)
+
 
 * Get IoT Lab approved
 * Get your own IoT Lab shirt
