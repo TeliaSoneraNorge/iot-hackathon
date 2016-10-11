@@ -34,15 +34,14 @@ In this repository are some software examples for the NodeMCU board in case you 
     * [Linux](http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip)
     * [Other](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
 
----
 
-## Exercises
+
+### Exercises
 
 * [[Exercise 1] - Blink Led](doc/exercise/1-blink/README.md)
 * [Exercise 2] - 
 
----
 
-## Hardware information
+## Hardware
 
-[some parts](doc/hardware/hardware.md)
+[Hardware available from the IoT Lab](doc/hardware/hardware.md)
