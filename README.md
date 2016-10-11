@@ -26,5 +26,5 @@
 
 ## Exercises
 
-* [[Exercise 1] - Blink Led](doc/exercise/[exercise1]-blink/exercise1-blink.md)
+* [[Exercise 1] - Blink Led](doc/exercise/1-blink/README.md)
 * [Exercise 2] - 
