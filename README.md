@@ -1,4 +1,4 @@
-![TeliaNextIotLabHackathon](img/TeliaNextIotLab.png)
+![TeliaNextIotLabHackathon](img/TeliaNextIoTLab.png?raw=true)
 
 
 * Get IoT Lab approved
