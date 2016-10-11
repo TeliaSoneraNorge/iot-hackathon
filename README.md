@@ -12,9 +12,9 @@
     ```git pull git@github.com:TeliaSoneraNorge/iot-hackathon.git```
 
 * Install Atom
-    * Mac OS X: https://atom.io/download/mac or `brew cask install atom`
-    * Windows: https://atom.io/download/windows
-    * Linux: https://github.com/atom/atom/releases/latest
+    * [Mac OS X](https://atom.io/download/mac) or `brew cask install atom`
+    * [Windows](https://atom.io/download/windows)
+    * [Linux](https://github.com/atom/atom/releases/latest)
 
 * Install platformIO
     * Mac OS X: `Menu: Atom > Preferences > Install > Search platformIO > Click Install`
@@ -26,7 +26,7 @@
     * [Windows](http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip)
     * [Linux](http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip)
     * [Other](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
-    
+
 ---
 
 ## Hardware information
