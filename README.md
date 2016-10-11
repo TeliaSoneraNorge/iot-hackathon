@@ -50,7 +50,7 @@ In this repository are some software examples for the NodeMCU board in case you 
 
 
 
-### Exercises
+### Exercises (NOT READY YET!)
 
 * [[Exercise 1] - Blink Led](doc/exercise/1-blink/README.md)
 * [Exercise 2] - 
