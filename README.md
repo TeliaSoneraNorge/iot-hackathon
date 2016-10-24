@@ -18,6 +18,8 @@
  * Unpack shiny new parts
  * Continue hacking!
 
+Location: The Canteen
+
 Join whenever you can and stay for as long as you want!
 
 ***Want to join? [Please sign up!](http://bit.ly/2dQGwxZ)***
@@ -59,3 +61,10 @@ In this repository are some software examples for the NodeMCU board in case you 
 ## Hardware
 
 [Hardware available from the IoT Lab](doc/hardware/hardware.md)
+
+## Inspiration
+
+Some websites for finding project ideas:
+* http://hackaday.com
+* http://instructables.com
+* http://letsmakerobots.com
