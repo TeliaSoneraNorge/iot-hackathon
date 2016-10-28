@@ -40,9 +40,9 @@ In this repository are some software examples for the NodeMCU board in case you 
 
  Or, if you already have Python, Clang and Atom you can just add the PlatformIO plugin
 
- * Mac OS X: `Menu: Atom > Preferences > Install > Search platformIO > Click Install`
- * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
- * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
+ * Mac OS X: `Menu: Atom > Preferences > Install > Search platformio-ide > Click Install`
+ * Windows: `Menu: File > Settings > Install > Search platformio-ide > Click Install`
+ * Linux: `Menu: Edit > Preferences > Install > Search platformio-ide > Click Install`
         
 ###3. Install NodeMCU CP201x USB Driver
 * [OS X](http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip)
