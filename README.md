@@ -30,32 +30,32 @@ Let us know your thoughts, ideas and questions in [#iot-hackathon](slack://chann
 ## Getting started with NodeMCU
 In this repository are some software examples for the NodeMCU board in case you want to play around with it. Here is how to get started:
 
-* Clone the repo
+###1. Clone this repo
 
-    ```git pull git@github.com:TeliaSoneraNorge/iot-hackathon.git```
+```git clone git@github.com:TeliaSoneraNorge/iot-hackathon.git```
+    
+###2. Install PlatformIO
 
-* Install Atom
-    * [Mac OS X](https://atom.io/download/mac) or `brew cask install atom`
-    * [Windows](https://atom.io/download/windows)
-    * [Linux](https://github.com/atom/atom/releases/latest)
+ Follow this guide carefully and make sure to install Python, Clang and Atom if needed: [http://docs.platformio.org/en/stable/ide/atom.html#installation](http://docs.platformio.org/en/stable/ide/atom.html#installation)
 
-* Install platformIO
-    * Mac OS X: `Menu: Atom > Preferences > Install > Search platformIO > Click Install`
-    * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
-    * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
+ Or, if you already have Python, Clang and Atom you can just add the PlatformIO plugin
+
+ * Mac OS X: `Menu: Atom > Preferences > Install > Search platformIO > Click Install`
+ * Windows: `Menu: File > Settings > Install > Search platformIO > Click Install`
+ * Linux: `Menu: Edit > Preferences > Install > Search platformIO > Click Install`
         
-* Install NodeMCU CP201x USB Driver
-    * [macOS](http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip)
-    * [Windows](http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip)
-    * [Linux](http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip)
-    * [Other](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
+###3. Install NodeMCU CP201x USB Driver
+* [OS X](http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip)
+* [Windows](http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip)
+* [Linux](http://www.silabs.com/Support%20Documents/Software/Linux_3.x.x_VCP_Driver_Source.zip)
+* [Other](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
 
 
 
-### Exercises (NOT READY YET!)
+### Exercises (work in progress!)
 
-* [[Exercise 1] - Blink Led](doc/exercise/1-blink/README.md)
-* [Exercise 2] - 
+* [[Exercise 1] - Blink the NodeMCU](doc/exercise/1-blink/README.md)
+* [[Exercise 2] - Blink the LED](doc/exercise/2-blink/README.md)
 
 
 ## Hardware
@@ -65,6 +65,7 @@ In this repository are some software examples for the NodeMCU board in case you 
 ## Inspiration
 
 Some websites for finding project ideas:
+
 * http://hackaday.com
 * http://instructables.com
 * http://letsmakerobots.com
